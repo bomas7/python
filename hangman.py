@@ -28,7 +28,6 @@ def fill_word(guess, masked_word, word):
         masked_word[''.join(word).find(guess) + i] = guess 
         masked_word = ''.join(masked_word)
         word.remove(guess)
-        print(word)
     return masked_word
 
 def main():
