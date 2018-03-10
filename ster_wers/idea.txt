@@ -1,0 +1,13 @@
+Manny Wang
+3/10/2018
+Ster Wers
+(star wars based pokemon style)
+
+
+General plan:
+-local multiplayer and singleplayer
+-you can choose to be sith or jedi
+-go against opposite group
+-can select a character to represent you
+-different levels until the boss
+-can have saves
