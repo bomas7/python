@@ -1,10 +1,10 @@
 '''
 Primitive simulaton of a voting thing
 Chalie & Menny Wung
+3/20/18 - 3/23/18
 '''
 import webbrowser
 import json
-import time
 from photo import Photo
 
 def get_photos():
