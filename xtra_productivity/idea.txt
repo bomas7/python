@@ -1,0 +1,7 @@
+Goal: Increase productivity
+
+Idea: Program creates a checklist of what you need to do,
+can add new things
+can remove things
+checks off,
+reminds you of what you need to do
